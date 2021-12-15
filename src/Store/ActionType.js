@@ -1,0 +1,1 @@
+export const UPDATE_EQUIPMENT = "UPDATE_EQUIPMENT";
